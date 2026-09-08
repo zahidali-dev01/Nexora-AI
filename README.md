@@ -15,6 +15,10 @@ Nexora AI is an offline AI chat application built with Python and Streamlit. It 
 - 🔒 Local/private workflow
 - ☁️ No cloud API required
 
+## 📸 Screenshot
+
+![Nexora AI Interface](nexora-ai-interface.png)
+
 ## 🛠️ Technologies
 
 - Python
