@@ -53,7 +53,7 @@ Nexora-AI/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Nexora-AI.git
+git clone https://github.com/zahidali-dev01/Nexora-AI.git
 cd Nexora-AI
 ```
 
