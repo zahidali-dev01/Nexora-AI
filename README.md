@@ -116,15 +116,6 @@ Nexora AI is designed to communicate with a local AI server. The application its
 
 Saved conversations are stored locally by the application in its `chats` folder.
 
-## 📸 Screenshots
-
-Add screenshots of Nexora AI inside the `screenshots/` folder.
-
-Recommended:
-- Main chat interface
-- Streaming response
-- Saved chats sidebar
-
 ## 🎯 Learning Goals
 
 This project helped explore:
